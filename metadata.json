@@ -1,0 +1,7 @@
+{
+  "name": "OmniData Intelligence - Global Market Data & Statistics Explorer",
+  "description": "Explore real global market statistics, public economic indicators, country comparisons, interactive charts, and verifiable reports powered by World Bank and open statistical data APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
